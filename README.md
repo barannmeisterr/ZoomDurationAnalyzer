@@ -1,5 +1,5 @@
 # ZoomDurationAnalyzer
- Java program that reads, processes, and displays attendance records by using linear probing hash table in a Zoom meeting report provided as a txt file.
+ Java program that reads, processes, and displays attendance records by using linear probing hash table in a Zoom meeting report provided as a txt file so that the total duration of all participants can be tracked.
 
 Sample txt file:
 İnput 1 :
@@ -29,7 +29,7 @@ Asya Hale Gencel 118.0
 Serhat Gokhan YAMAC 118.0
 Taner Ceyhun 117.0
 
-
+All txt files are in resources folder.
 The first line of the input file is a header line which includes title of each column of the data file:
  Join Time: Date and time when participants join the meeting
  Leave Time: Date and time when participants leave the meeting
