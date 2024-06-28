@@ -3,7 +3,7 @@ public class Attendee<Key, Value> {
 		// Title: Attendee class
 		// Author: Arda Baran
 		// Description: This class purposes to insert Participants records from a zoom meeting to hash table. 
-		// ›f a key occurs more than one,the value of occurences of same key added to the original value of key such as
+		// √ùf a key occurs more than one,the value of occurences of same key added to the original value of key such as
 		//if occurence of Sevil Terzi is three times and values for each occurences are 81.0 ,1.0 and 28.0 then the value of
 	     // Sevil Terzi which is key value of this hashtable updates to 110.0.
 	     //    (81.0 + 1.0 + 28.0) = 110.0
